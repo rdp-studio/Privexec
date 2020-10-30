@@ -4,7 +4,7 @@ Run the program with the specified permission level
 
 ## Install
 
-You can download it directly, use Exeplorer or 7z and other tools to extract and then use Privexec, download link: [https://github.com/M2Team/Privexec/releases/latest](https://github.com/rdp-studio/Privexec/releases/latest)
+You can download it directly, use Exeplorer or 7z and other tools to extract and then use Privexec, download link: [https://github.com/rdp-studio/Privexec/releases/latest](https://github.com/rdp-studio/Privexec/releases/latest)
 
 
 
