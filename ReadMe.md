@@ -1,26 +1,10 @@
 # Privexec
 
-[![license badge](https://img.shields.io/github/license/M2Team/Privexec.svg)](LICENSE)
-[![Master Branch Status](https://github.com/M2Team/Privexec/workflows/CI/badge.svg)](https://github.com/M2Team/Privexec/actions)
-[![Latest Release Downloads](https://img.shields.io/github/downloads/M2Team/Privexec/latest/total.svg)](https://github.com/M2Team/Privexec/releases/latest)
-[![Total Downloads](https://img.shields.io/github/downloads/M2Team/Privexec/total.svg)](https://github.com/M2Team/Privexec/releases)
-[![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
-
-
-[简体中文](./ReadMe.zh-CN.md)
-
 Run the program with the specified permission level
 
 ## Install
 
-Install Privexec by [baulk](https://github.com/baulk/baulk)
-
-```powershell
-baulk install wsudo
-wsudo --version
-```
-
-Or you can download it directly, use Exeplorer or 7z and other tools to extract and then use Privexec, download link: [https://github.com/M2Team/Privexec/releases/latest](https://github.com/M2Team/Privexec/releases/latest)
+You can download it directly, use Exeplorer or 7z and other tools to extract and then use Privexec, download link: [https://github.com/M2Team/Privexec/releases/latest](https://github.com/rdp-studio/Privexec/releases/latest)
 
 
 
