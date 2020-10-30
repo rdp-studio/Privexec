@@ -29,33 +29,6 @@ Privexec and wsudo can resolve aliases. In addition, wsudo adds or deletes alias
 }
 ```
 
-
-## Screenshot
-
-![ui](docs/images/admin.png)
-
-
-Alias:
-
-![alias](docs/images/alias.png)
-
-AppContainer:
-
-![appcoantiner](docs/images/appcontainer.png)
-
-
-wsudo usage:
-
-![wsudo](docs/images/wsudo.png)
-
-wsudo Verbose Mode:
-
-![wsudo](docs/images/wsudo3.png)
-
-AppContainer Exec
-
-![appexec](docs/images/appexec.png)
-
 ## Usage
 
 Privexec is a GUI client. When running as a standard user, you can start the administrator process; when running as an administrator, you can elevate the privileges to `System` or `TrustedInstaller`. It should be noted that `System` or `TrustedInstaller` has too many privileges, which can easily damage the system operation. Be careful when using it.
